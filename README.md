@@ -1,4 +1,4 @@
-# Simple Network Sync Alpha
+# Simple Network Sync (Alpha)
 NST will slowly be retired as I work on my new Server Authority project, and these assets will become the replacement - as they use the same interfaces and methods as my new development work.
 
 [**Download Current Alpha** - Unity Package Download](https://github.com/emotitron/SimpleSyncAlpha/releases)
