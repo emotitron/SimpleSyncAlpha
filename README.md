@@ -1,4 +1,4 @@
-# Simple Sync Tools Alpha
+# Simple Net Sync Tools Alpha
 NST will slowly be retired as I work on my new Server Authority project, and these assets will become the replacement - as they use the same interfaces and methods as my new development work.
 
 There are two primary components.
