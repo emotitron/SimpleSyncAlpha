@@ -1,5 +1,8 @@
-# SimpleSyncAlpha
+# SimpleSync Alpha
+NST will slowly be retired as I work on my new Server Authority project, and these assets will become the replacement - as they use the same interfaces and methods as my new development work.
+
 There are two primary components.
+[**Download Current Alpha** - Unity Package Download](https://github.com/emotitron/SimpleSyncAlpha/releases)
 
 ## SimpleSyncTransform
 A replacement for NetworkTransform or PhotonTransformView. Use as you would NetworkTransform.
